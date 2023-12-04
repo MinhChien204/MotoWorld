@@ -33,6 +33,7 @@
         android:background="#F3EDED"
         android:orientation="horizontal">
         <Button
+            android:textStyle="bold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Tất cả "
@@ -40,18 +41,21 @@
             android:backgroundTint="#F3EDED"/>
 
         <Button
+            android:textStyle="bold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Đang chờ "
             android:textColor="@color/black"
             android:backgroundTint="#F3EDED"/>
         <Button
+            android:textStyle="bold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Giao Dịch "
             android:textColor="@color/black"
             android:backgroundTint="#F3EDED"/>
         <Button
+            android:textStyle="bold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hoàn Tất"
