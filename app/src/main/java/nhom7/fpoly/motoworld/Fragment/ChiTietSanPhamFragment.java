@@ -57,7 +57,7 @@ private boolean isLoggedIn = false;
             Log.d("spct","sanphamchitiet" +item);
         }
     }
-
+//test
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
